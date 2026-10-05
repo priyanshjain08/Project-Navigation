@@ -44,4 +44,4 @@ Each page has its own gradient background while sharing the same navigation desi
 
 This project demonstrates the basics of creating a **multi-page website**, linking HTML pages together, and applying consistent CSS styling across the website.
 
-Site is live at https://priyanshjain08.github.io/Project-Navigation/
+
