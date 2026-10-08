@@ -25,7 +25,6 @@ A simple **multi page website** built using **HTML and CSS**. The website contai
 ## 📁 Project Structure
 
 ```text
-Project-6/
 ├── index.html
 ├── home.html
 ├── about.html
